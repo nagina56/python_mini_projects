@@ -11,7 +11,7 @@ This repository contains a collection of basic Python projects created for learn
 - Random Quote Generator 💬  
 - Unit Converter 🔄  
 - Rock Paper Scissors ✊✋✌️
-- 
+
 
 ## 🚀 How to Run
 
@@ -19,6 +19,7 @@ Run any project using this format:
 
 ```bash
 unit_converter/main.py
+countdown_timer/main.py
 ```
 
 ## 🛠️ Tools Used
