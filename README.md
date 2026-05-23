@@ -11,6 +11,7 @@ This repository contains a collection of basic Python projects created for learn
 - Random Quote Generator 💬  
 - Unit Converter 🔄  
 - Rock Paper Scissors ✊✋✌️
+- Quiz App 📚
 
 
 ## 🚀 How to Run
